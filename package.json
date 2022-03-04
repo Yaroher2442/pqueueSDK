@@ -1,0 +1,23 @@
+{
+  "name": "pqueuesdk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yaroher2442/pqueueSDK.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yaroher2442/pqueueSDK/issues"
+  },
+  "homepage": "https://github.com/Yaroher2442/pqueueSDK#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}
